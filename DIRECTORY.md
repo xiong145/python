@@ -428,6 +428,7 @@
   * [Collatz Sequence](https://github.com/TheAlgorithms/Python/blob/master/maths/collatz_sequence.py)
   * [Combinations](https://github.com/TheAlgorithms/Python/blob/master/maths/combinations.py)
   * [Decimal Isolate](https://github.com/TheAlgorithms/Python/blob/master/maths/decimal_isolate.py)
+  * [Double Factorial Iterative](https://github.com/TheAlgorithms/Python/blob/master/maths/double_factorial_iterative.py)
   * [Double Factorial Recursive](https://github.com/TheAlgorithms/Python/blob/master/maths/double_factorial_recursive.py)
   * [Entropy](https://github.com/TheAlgorithms/Python/blob/master/maths/entropy.py)
   * [Euclidean Distance](https://github.com/TheAlgorithms/Python/blob/master/maths/euclidean_distance.py)
